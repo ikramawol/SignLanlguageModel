@@ -1,0 +1,1327 @@
+{
+  "hello": {
+    "gloss": "hello",
+    "folder": "C:\\Users\\ikrua\\Downloads\\archive (2)\\medical_signs\\hello",
+    "videos": [
+      "hello_v1.mp4",
+      "hello_v2.mp4",
+      "hello_v3.mp4",
+      "hello_v4.mp4"
+    ]
+  },
+  "goodbye": {
+    "gloss": "goodbye",
+    "folder": "C:\\Users\\ikrua\\Downloads\\archive (2)\\medical_signs\\goodbye",
+    "videos": [
+      "goodbye_v1.mp4",
+      "goodbye_v2.mp4",
+      "goodbye_v3.mp4",
+      "goodbye_v4.mp4",
+      "goodbye_v5.mp4"
+    ]
+  },
+  "thank_you": {
+    "gloss": "thank you",
+    "folder": "C:\\Users\\ikrua\\Downloads\\archive (2)\\medical_signs\\thank_you",
+    "videos": [
+      "thank_you_v1.mp4",
+      "thank_you_v2.mp4",
+      "thank_you_v3.mp4",
+      "thank_you_v4.mp4",
+      "thank_you_v5.mp4",
+      "thank_you_v6.mp4",
+      "thank_you_v7.mp4"
+    ]
+  },
+  "sorry": {
+    "gloss": "sorry",
+    "folder": "C:\\Users\\ikrua\\Downloads\\archive (2)\\medical_signs\\sorry",
+    "videos": [
+      "sorry_v1.mp4",
+      "sorry_v2.mp4",
+      "sorry_v3.mp4",
+      "sorry_v4.mp4",
+      "sorry_v5.mp4",
+      "sorry_v6.mp4",
+      "sorry_v7.mp4"
+    ]
+  },
+  "yes": {
+    "gloss": "yes",
+    "folder": "C:\\Users\\ikrua\\Downloads\\archive (2)\\medical_signs\\yes",
+    "videos": [
+      "yes_v1.mp4",
+      "yes_v2.mp4",
+      "yes_v3.mp4",
+      "yes_v4.mp4",
+      "yes_v5.mp4",
+      "yes_v6.mp4",
+      "yes_v7.mp4",
+      "yes_v8.mp4",
+      "yes_v9.mp4",
+      "yes_v10.mp4",
+      "yes_v11.mp4",
+      "yes_v12.mp4"
+    ]
+  },
+  "no": {
+    "gloss": "no",
+    "folder": "C:\\Users\\ikrua\\Downloads\\archive (2)\\medical_signs\\no",
+    "videos": [
+      "no_v1.mp4",
+      "no_v2.mp4",
+      "no_v3.mp4",
+      "no_v4.mp4",
+      "no_v5.mp4",
+      "no_v6.mp4",
+      "no_v7.mp4",
+      "no_v8.mp4",
+      "no_v9.mp4",
+      "no_v10.mp4",
+      "no_v11.mp4"
+    ]
+  },
+  "please": {
+    "gloss": "please",
+    "folder": "C:\\Users\\ikrua\\Downloads\\archive (2)\\medical_signs\\please",
+    "videos": [
+      "please_v1.mp4",
+      "please_v2.mp4",
+      "please_v3.mp4",
+      "please_v4.mp4",
+      "please_v5.mp4",
+      "please_v6.mp4",
+      "please_v7.mp4"
+    ]
+  },
+  "help": {
+    "gloss": "help",
+    "folder": "C:\\Users\\ikrua\\Downloads\\archive (2)\\medical_signs\\help",
+    "videos": [
+      "help_v1.mp4",
+      "help_v2.mp4",
+      "help_v3.mp4",
+      "help_v4.mp4",
+      "help_v5.mp4",
+      "help_v6.mp4",
+      "help_v7.mp4",
+      "help_v8.mp4",
+      "help_v9.mp4",
+      "help_v10.mp4",
+      "help_v11.mp4",
+      "help_v12.mp4",
+      "help_v13.mp4",
+      "help_v14.mp4"
+    ]
+  },
+  "understand": {
+    "gloss": "understand",
+    "folder": "C:\\Users\\ikrua\\Downloads\\archive (2)\\medical_signs\\understand",
+    "videos": [
+      "understand_v1.mp4",
+      "understand_v2.mp4",
+      "understand_v3.mp4",
+      "understand_v4.mp4",
+      "understand_v5.mp4",
+      "understand_v6.mp4",
+      "understand_v7.mp4"
+    ]
+  },
+  "repeat": {
+    "gloss": "repeat",
+    "folder": "C:\\Users\\ikrua\\Downloads\\archive (2)\\medical_signs\\repeat",
+    "videos": [
+      "repeat_v1.mp4",
+      "repeat_v2.mp4",
+      "repeat_v3.mp4",
+      "repeat_v4.mp4",
+      "repeat_v5.mp4"
+    ]
+  },
+  "name": {
+    "gloss": "name",
+    "folder": "C:\\Users\\ikrua\\Downloads\\archive (2)\\medical_signs\\name",
+    "videos": [
+      "name_v1.mp4",
+      "name_v2.mp4",
+      "name_v3.mp4",
+      "name_v4.mp4",
+      "name_v5.mp4",
+      "name_v6.mp4"
+    ]
+  },
+  "age": {
+    "gloss": "age",
+    "folder": "C:\\Users\\ikrua\\Downloads\\archive (2)\\medical_signs\\age",
+    "videos": [
+      "age_v1.mp4",
+      "age_v2.mp4",
+      "age_v3.mp4",
+      "age_v4.mp4",
+      "age_v5.mp4",
+      "age_v6.mp4",
+      "age_v7.mp4"
+    ]
+  },
+  "address": {
+    "gloss": "address",
+    "folder": "C:\\Users\\ikrua\\Downloads\\archive (2)\\medical_signs\\address",
+    "videos": [
+      "address_v1.mp4",
+      "address_v2.mp4",
+      "address_v3.mp4",
+      "address_v4.mp4"
+    ]
+  },
+  "family": {
+    "gloss": "family",
+    "folder": "C:\\Users\\ikrua\\Downloads\\archive (2)\\medical_signs\\family",
+    "videos": [
+      "family_v1.mp4",
+      "family_v2.mp4",
+      "family_v3.mp4",
+      "family_v4.mp4",
+      "family_v5.mp4",
+      "family_v6.mp4",
+      "family_v7.mp4",
+      "family_v8.mp4",
+      "family_v9.mp4",
+      "family_v10.mp4",
+      "family_v11.mp4"
+    ]
+  },
+  "male": {
+    "gloss": "man",
+    "folder": "C:\\Users\\ikrua\\Downloads\\archive (2)\\medical_signs\\male",
+    "videos": [
+      "male_v1.mp4",
+      "male_v2.mp4",
+      "male_v3.mp4",
+      "male_v4.mp4",
+      "male_v5.mp4",
+      "male_v6.mp4",
+      "male_v7.mp4",
+      "male_v8.mp4",
+      "male_v9.mp4",
+      "male_v10.mp4",
+      "male_v11.mp4",
+      "male_v12.mp4"
+    ]
+  },
+  "female": {
+    "gloss": "woman",
+    "folder": "C:\\Users\\ikrua\\Downloads\\archive (2)\\medical_signs\\female",
+    "videos": [
+      "female_v1.mp4",
+      "female_v2.mp4",
+      "female_v3.mp4",
+      "female_v4.mp4",
+      "female_v5.mp4",
+      "female_v6.mp4",
+      "female_v7.mp4",
+      "female_v8.mp4",
+      "female_v9.mp4",
+      "female_v10.mp4",
+      "female_v11.mp4"
+    ]
+  },
+  "married": {
+    "gloss": "wife",
+    "folder": "C:\\Users\\ikrua\\Downloads\\archive (2)\\medical_signs\\married",
+    "videos": [
+      "married_v1.mp4",
+      "married_v2.mp4",
+      "married_v3.mp4",
+      "married_v4.mp4",
+      "married_v5.mp4",
+      "married_v6.mp4",
+      "married_v7.mp4",
+      "married_v8.mp4"
+    ]
+  },
+  "alone": {
+    "gloss": "alone",
+    "folder": "C:\\Users\\ikrua\\Downloads\\archive (2)\\medical_signs\\alone",
+    "videos": [
+      "alone_v1.mp4",
+      "alone_v2.mp4",
+      "alone_v3.mp4",
+      "alone_v4.mp4",
+      "alone_v5.mp4",
+      "alone_v6.mp4",
+      "alone_v7.mp4",
+      "alone_v8.mp4",
+      "alone_v9.mp4"
+    ]
+  },
+  "pain": {
+    "gloss": "pain",
+    "folder": "C:\\Users\\ikrua\\Downloads\\archive (2)\\medical_signs\\pain",
+    "videos": [
+      "pain_v1.mp4",
+      "pain_v2.mp4",
+      "pain_v3.mp4",
+      "pain_v4.mp4",
+      "pain_v5.mp4"
+    ]
+  },
+  "headache": {
+    "gloss": "headache",
+    "folder": "C:\\Users\\ikrua\\Downloads\\archive (2)\\medical_signs\\headache",
+    "videos": [
+      "headache_v1.mp4",
+      "headache_v2.mp4",
+      "headache_v3.mp4",
+      "headache_v4.mp4",
+      "headache_v5.mp4",
+      "headache_v6.mp4",
+      "headache_v7.mp4",
+      "headache_v8.mp4",
+      "headache_v9.mp4"
+    ]
+  },
+  "stomach": {
+    "gloss": "stomach",
+    "folder": "C:\\Users\\ikrua\\Downloads\\archive (2)\\medical_signs\\stomach",
+    "videos": [
+      "stomach_v1.mp4",
+      "stomach_v2.mp4",
+      "stomach_v3.mp4",
+      "stomach_v4.mp4",
+      "stomach_v5.mp4",
+      "stomach_v6.mp4",
+      "stomach_v7.mp4"
+    ]
+  },
+  "chest": {
+    "gloss": "heart",
+    "folder": "C:\\Users\\ikrua\\Downloads\\archive (2)\\medical_signs\\chest",
+    "videos": [
+      "chest_v1.mp4",
+      "chest_v2.mp4",
+      "chest_v3.mp4",
+      "chest_v4.mp4",
+      "chest_v5.mp4",
+      "chest_v6.mp4",
+      "chest_v7.mp4",
+      "chest_v8.mp4"
+    ]
+  },
+  "back": {
+    "gloss": "back",
+    "folder": "C:\\Users\\ikrua\\Downloads\\archive (2)\\medical_signs\\back",
+    "videos": [
+      "back_v1.mp4",
+      "back_v2.mp4",
+      "back_v3.mp4",
+      "back_v4.mp4",
+      "back_v5.mp4",
+      "back_v6.mp4",
+      "back_v7.mp4"
+    ]
+  },
+  "neck": {
+    "gloss": "neck",
+    "folder": "C:\\Users\\ikrua\\Downloads\\archive (2)\\medical_signs\\neck",
+    "videos": [
+      "neck_v1.mp4",
+      "neck_v2.mp4",
+      "neck_v3.mp4",
+      "neck_v4.mp4",
+      "neck_v5.mp4",
+      "neck_v6.mp4"
+    ]
+  },
+  "arm": {
+    "gloss": "arm",
+    "folder": "C:\\Users\\ikrua\\Downloads\\archive (2)\\medical_signs\\arm",
+    "videos": [
+      "arm_v1.mp4",
+      "arm_v2.mp4",
+      "arm_v3.mp4",
+      "arm_v4.mp4",
+      "arm_v5.mp4",
+      "arm_v6.mp4",
+      "arm_v7.mp4"
+    ]
+  },
+  "ear": {
+    "gloss": "ear",
+    "folder": "C:\\Users\\ikrua\\Downloads\\archive (2)\\medical_signs\\ear",
+    "videos": [
+      "ear_v1.mp4",
+      "ear_v2.mp4",
+      "ear_v3.mp4",
+      "ear_v4.mp4",
+      "ear_v5.mp4",
+      "ear_v6.mp4",
+      "ear_v7.mp4",
+      "ear_v8.mp4"
+    ]
+  },
+  "eye": {
+    "gloss": "eye",
+    "folder": "C:\\Users\\ikrua\\Downloads\\archive (2)\\medical_signs\\eye",
+    "videos": [
+      "eye_v1.mp4",
+      "eye_v2.mp4",
+      "eye_v3.mp4",
+      "eye_v4.mp4",
+      "eye_v5.mp4",
+      "eye_v6.mp4"
+    ]
+  },
+  "tooth": {
+    "gloss": "tooth",
+    "folder": "C:\\Users\\ikrua\\Downloads\\archive (2)\\medical_signs\\tooth",
+    "videos": [
+      "tooth_v1.mp4",
+      "tooth_v2.mp4",
+      "tooth_v3.mp4",
+      "tooth_v4.mp4",
+      "tooth_v5.mp4",
+      "tooth_v6.mp4"
+    ]
+  },
+  "fever": {
+    "gloss": "temperature",
+    "folder": "C:\\Users\\ikrua\\Downloads\\archive (2)\\medical_signs\\fever",
+    "videos": [
+      "fever_v1.mp4",
+      "fever_v2.mp4",
+      "fever_v3.mp4",
+      "fever_v4.mp4",
+      "fever_v5.mp4",
+      "fever_v6.mp4",
+      "fever_v7.mp4",
+      "fever_v8.mp4"
+    ]
+  },
+  "cough": {
+    "gloss": "cough",
+    "folder": "C:\\Users\\ikrua\\Downloads\\archive (2)\\medical_signs\\cough",
+    "videos": [
+      "cough_v1.mp4",
+      "cough_v2.mp4",
+      "cough_v3.mp4",
+      "cough_v4.mp4",
+      "cough_v5.mp4",
+      "cough_v6.mp4"
+    ]
+  },
+  "dizzy": {
+    "gloss": "dizzy",
+    "folder": "C:\\Users\\ikrua\\Downloads\\archive (2)\\medical_signs\\dizzy",
+    "videos": [
+      "dizzy_v1.mp4",
+      "dizzy_v2.mp4",
+      "dizzy_v3.mp4",
+      "dizzy_v4.mp4"
+    ]
+  },
+  "tired": {
+    "gloss": "tired",
+    "folder": "C:\\Users\\ikrua\\Downloads\\archive (2)\\medical_signs\\tired",
+    "videos": [
+      "tired_v1.mp4",
+      "tired_v2.mp4",
+      "tired_v3.mp4",
+      "tired_v4.mp4",
+      "tired_v5.mp4",
+      "tired_v6.mp4",
+      "tired_v7.mp4"
+    ]
+  },
+  "vomit": {
+    "gloss": "vomit",
+    "folder": "C:\\Users\\ikrua\\Downloads\\archive (2)\\medical_signs\\vomit",
+    "videos": [
+      "vomit_v1.mp4",
+      "vomit_v2.mp4",
+      "vomit_v3.mp4",
+      "vomit_v4.mp4",
+      "vomit_v5.mp4",
+      "vomit_v6.mp4",
+      "vomit_v7.mp4",
+      "vomit_v8.mp4",
+      "vomit_v9.mp4"
+    ]
+  },
+  "blood": {
+    "gloss": "blood",
+    "folder": "C:\\Users\\ikrua\\Downloads\\archive (2)\\medical_signs\\blood",
+    "videos": [
+      "blood_v1.mp4",
+      "blood_v2.mp4",
+      "blood_v3.mp4",
+      "blood_v4.mp4",
+      "blood_v5.mp4"
+    ]
+  },
+  "cold": {
+    "gloss": "cold",
+    "folder": "C:\\Users\\ikrua\\Downloads\\archive (2)\\medical_signs\\cold",
+    "videos": [
+      "cold_v1.mp4",
+      "cold_v2.mp4",
+      "cold_v3.mp4",
+      "cold_v4.mp4",
+      "cold_v5.mp4",
+      "cold_v6.mp4",
+      "cold_v7.mp4",
+      "cold_v8.mp4",
+      "cold_v9.mp4",
+      "cold_v10.mp4",
+      "cold_v11.mp4",
+      "cold_v12.mp4"
+    ]
+  },
+  "rash": {
+    "gloss": "skin",
+    "folder": "C:\\Users\\ikrua\\Downloads\\archive (2)\\medical_signs\\rash",
+    "videos": [
+      "rash_v1.mp4",
+      "rash_v2.mp4",
+      "rash_v3.mp4",
+      "rash_v4.mp4",
+      "rash_v5.mp4",
+      "rash_v6.mp4"
+    ]
+  },
+  "weak": {
+    "gloss": "weak",
+    "folder": "C:\\Users\\ikrua\\Downloads\\archive (2)\\medical_signs\\weak",
+    "videos": [
+      "weak_v1.mp4",
+      "weak_v2.mp4",
+      "weak_v3.mp4",
+      "weak_v4.mp4",
+      "weak_v5.mp4",
+      "weak_v6.mp4",
+      "weak_v7.mp4"
+    ]
+  },
+  "today": {
+    "gloss": "today",
+    "folder": "C:\\Users\\ikrua\\Downloads\\archive (2)\\medical_signs\\today",
+    "videos": [
+      "today_v1.mp4",
+      "today_v2.mp4",
+      "today_v3.mp4",
+      "today_v4.mp4",
+      "today_v5.mp4",
+      "today_v6.mp4",
+      "today_v7.mp4",
+      "today_v8.mp4",
+      "today_v9.mp4"
+    ]
+  },
+  "yesterday": {
+    "gloss": "yesterday",
+    "folder": "C:\\Users\\ikrua\\Downloads\\archive (2)\\medical_signs\\yesterday",
+    "videos": [
+      "yesterday_v1.mp4",
+      "yesterday_v2.mp4",
+      "yesterday_v3.mp4",
+      "yesterday_v4.mp4",
+      "yesterday_v5.mp4",
+      "yesterday_v6.mp4",
+      "yesterday_v7.mp4",
+      "yesterday_v8.mp4",
+      "yesterday_v9.mp4",
+      "yesterday_v10.mp4"
+    ]
+  },
+  "week": {
+    "gloss": "week",
+    "folder": "C:\\Users\\ikrua\\Downloads\\archive (2)\\medical_signs\\week",
+    "videos": [
+      "week_v1.mp4",
+      "week_v2.mp4",
+      "week_v3.mp4",
+      "week_v4.mp4",
+      "week_v5.mp4",
+      "week_v6.mp4",
+      "week_v7.mp4",
+      "week_v8.mp4",
+      "week_v9.mp4"
+    ]
+  },
+  "month": {
+    "gloss": "month",
+    "folder": "C:\\Users\\ikrua\\Downloads\\archive (2)\\medical_signs\\month",
+    "videos": [
+      "month_v1.mp4",
+      "month_v2.mp4",
+      "month_v3.mp4",
+      "month_v4.mp4",
+      "month_v5.mp4",
+      "month_v6.mp4",
+      "month_v7.mp4"
+    ]
+  },
+  "morning": {
+    "gloss": "morning",
+    "folder": "C:\\Users\\ikrua\\Downloads\\archive (2)\\medical_signs\\morning",
+    "videos": [
+      "morning_v1.mp4",
+      "morning_v2.mp4",
+      "morning_v3.mp4",
+      "morning_v4.mp4",
+      "morning_v5.mp4",
+      "morning_v6.mp4"
+    ]
+  },
+  "night": {
+    "gloss": "night",
+    "folder": "C:\\Users\\ikrua\\Downloads\\archive (2)\\medical_signs\\night",
+    "videos": [
+      "night_v1.mp4",
+      "night_v2.mp4",
+      "night_v3.mp4",
+      "night_v4.mp4",
+      "night_v5.mp4"
+    ]
+  },
+  "always": {
+    "gloss": "always",
+    "folder": "C:\\Users\\ikrua\\Downloads\\archive (2)\\medical_signs\\always",
+    "videos": [
+      "always_v1.mp4",
+      "always_v2.mp4",
+      "always_v3.mp4",
+      "always_v4.mp4",
+      "always_v5.mp4",
+      "always_v6.mp4",
+      "always_v7.mp4"
+    ]
+  },
+  "sometimes": {
+    "gloss": "sometimes",
+    "folder": "C:\\Users\\ikrua\\Downloads\\archive (2)\\medical_signs\\sometimes",
+    "videos": [
+      "sometimes_v1.mp4",
+      "sometimes_v2.mp4",
+      "sometimes_v3.mp4",
+      "sometimes_v4.mp4",
+      "sometimes_v5.mp4"
+    ]
+  },
+  "sit": {
+    "gloss": "sit",
+    "folder": "C:\\Users\\ikrua\\Downloads\\archive (2)\\medical_signs\\sit",
+    "videos": [
+      "sit_v1.mp4",
+      "sit_v2.mp4",
+      "sit_v3.mp4",
+      "sit_v4.mp4",
+      "sit_v5.mp4",
+      "sit_v6.mp4"
+    ]
+  },
+  "stand": {
+    "gloss": "stand",
+    "folder": "C:\\Users\\ikrua\\Downloads\\archive (2)\\medical_signs\\stand",
+    "videos": [
+      "stand_v1.mp4",
+      "stand_v2.mp4",
+      "stand_v3.mp4",
+      "stand_v4.mp4",
+      "stand_v5.mp4"
+    ]
+  },
+  "breathe": {
+    "gloss": "breathe",
+    "folder": "C:\\Users\\ikrua\\Downloads\\archive (2)\\medical_signs\\breathe",
+    "videos": [
+      "breathe_v1.mp4",
+      "breathe_v2.mp4",
+      "breathe_v3.mp4",
+      "breathe_v4.mp4",
+      "breathe_v5.mp4",
+      "breathe_v6.mp4"
+    ]
+  },
+  "stop": {
+    "gloss": "stop",
+    "folder": "C:\\Users\\ikrua\\Downloads\\archive (2)\\medical_signs\\stop",
+    "videos": [
+      "stop_v1.mp4",
+      "stop_v2.mp4",
+      "stop_v3.mp4",
+      "stop_v4.mp4",
+      "stop_v5.mp4"
+    ]
+  },
+  "wait": {
+    "gloss": "wait",
+    "folder": "C:\\Users\\ikrua\\Downloads\\archive (2)\\medical_signs\\wait",
+    "videos": [
+      "wait_v1.mp4",
+      "wait_v2.mp4",
+      "wait_v3.mp4",
+      "wait_v4.mp4",
+      "wait_v5.mp4",
+      "wait_v6.mp4",
+      "wait_v7.mp4",
+      "wait_v8.mp4",
+      "wait_v9.mp4",
+      "wait_v10.mp4"
+    ]
+  },
+  "open": {
+    "gloss": "open",
+    "folder": "C:\\Users\\ikrua\\Downloads\\archive (2)\\medical_signs\\open",
+    "videos": [
+      "open_v1.mp4",
+      "open_v2.mp4",
+      "open_v3.mp4",
+      "open_v4.mp4",
+      "open_v5.mp4",
+      "open_v6.mp4",
+      "open_v7.mp4"
+    ]
+  },
+  "close": {
+    "gloss": "close",
+    "folder": "C:\\Users\\ikrua\\Downloads\\archive (2)\\medical_signs\\close",
+    "videos": [
+      "close_v1.mp4",
+      "close_v2.mp4",
+      "close_v3.mp4",
+      "close_v4.mp4",
+      "close_v5.mp4",
+      "close_v6.mp4",
+      "close_v7.mp4",
+      "close_v8.mp4"
+    ]
+  },
+  "turn": {
+    "gloss": "turn",
+    "folder": "C:\\Users\\ikrua\\Downloads\\archive (2)\\medical_signs\\turn",
+    "videos": [
+      "turn_v1.mp4",
+      "turn_v2.mp4",
+      "turn_v3.mp4",
+      "turn_v4.mp4"
+    ]
+  },
+  "relax": {
+    "gloss": "relax",
+    "folder": "C:\\Users\\ikrua\\Downloads\\archive (2)\\medical_signs\\relax",
+    "videos": [
+      "relax_v1.mp4",
+      "relax_v2.mp4",
+      "relax_v3.mp4",
+      "relax_v4.mp4"
+    ]
+  },
+  "follow": {
+    "gloss": "follow",
+    "folder": "C:\\Users\\ikrua\\Downloads\\archive (2)\\medical_signs\\follow",
+    "videos": [
+      "follow_v1.mp4",
+      "follow_v2.mp4",
+      "follow_v3.mp4",
+      "follow_v4.mp4",
+      "follow_v5.mp4",
+      "follow_v6.mp4",
+      "follow_v7.mp4",
+      "follow_v8.mp4",
+      "follow_v9.mp4"
+    ]
+  },
+  "look": {
+    "gloss": "see",
+    "folder": "C:\\Users\\ikrua\\Downloads\\archive (2)\\medical_signs\\look",
+    "videos": [
+      "look_v1.mp4",
+      "look_v2.mp4",
+      "look_v3.mp4",
+      "look_v4.mp4",
+      "look_v5.mp4"
+    ]
+  },
+  "where": {
+    "gloss": "where",
+    "folder": "C:\\Users\\ikrua\\Downloads\\archive (2)\\medical_signs\\where",
+    "videos": [
+      "where_v1.mp4",
+      "where_v2.mp4",
+      "where_v3.mp4",
+      "where_v4.mp4",
+      "where_v5.mp4",
+      "where_v6.mp4",
+      "where_v7.mp4"
+    ]
+  },
+  "when": {
+    "gloss": "when",
+    "folder": "C:\\Users\\ikrua\\Downloads\\archive (2)\\medical_signs\\when",
+    "videos": [
+      "when_v1.mp4",
+      "when_v2.mp4",
+      "when_v3.mp4",
+      "when_v4.mp4",
+      "when_v5.mp4",
+      "when_v6.mp4",
+      "when_v7.mp4",
+      "when_v8.mp4"
+    ]
+  },
+  "first_time": {
+    "gloss": "new",
+    "folder": "C:\\Users\\ikrua\\Downloads\\archive (2)\\medical_signs\\first_time",
+    "videos": [
+      "first_time_v1.mp4",
+      "first_time_v2.mp4",
+      "first_time_v3.mp4",
+      "first_time_v4.mp4",
+      "first_time_v5.mp4",
+      "first_time_v6.mp4",
+      "first_time_v7.mp4",
+      "first_time_v8.mp4",
+      "first_time_v9.mp4"
+    ]
+  },
+  "getting_worse": {
+    "gloss": "worse",
+    "folder": "C:\\Users\\ikrua\\Downloads\\archive (2)\\medical_signs\\getting_worse",
+    "videos": [
+      "getting_worse_v1.mp4",
+      "getting_worse_v2.mp4",
+      "getting_worse_v3.mp4",
+      "getting_worse_v4.mp4",
+      "getting_worse_v5.mp4",
+      "getting_worse_v6.mp4"
+    ]
+  },
+  "getting_better": {
+    "gloss": "better",
+    "folder": "C:\\Users\\ikrua\\Downloads\\archive (2)\\medical_signs\\getting_better",
+    "videos": [
+      "getting_better_v1.mp4",
+      "getting_better_v2.mp4",
+      "getting_better_v3.mp4",
+      "getting_better_v4.mp4",
+      "getting_better_v5.mp4"
+    ]
+  },
+  "allergy": {
+    "gloss": "allergy",
+    "folder": "C:\\Users\\ikrua\\Downloads\\archive (2)\\medical_signs\\allergy",
+    "videos": [
+      "allergy_v1.mp4",
+      "allergy_v2.mp4",
+      "allergy_v3.mp4",
+      "allergy_v4.mp4",
+      "allergy_v5.mp4",
+      "allergy_v6.mp4",
+      "allergy_v7.mp4",
+      "allergy_v8.mp4"
+    ]
+  },
+  "pregnant": {
+    "gloss": "pregnant",
+    "folder": "C:\\Users\\ikrua\\Downloads\\archive (2)\\medical_signs\\pregnant",
+    "videos": [
+      "pregnant_v1.mp4",
+      "pregnant_v2.mp4",
+      "pregnant_v3.mp4",
+      "pregnant_v4.mp4",
+      "pregnant_v5.mp4"
+    ]
+  },
+  "surgery_before": {
+    "gloss": "surgery",
+    "folder": "C:\\Users\\ikrua\\Downloads\\archive (2)\\medical_signs\\surgery_before",
+    "videos": [
+      "surgery_before_v1.mp4",
+      "surgery_before_v2.mp4",
+      "surgery_before_v3.mp4",
+      "surgery_before_v4.mp4",
+      "surgery_before_v5.mp4",
+      "surgery_before_v6.mp4",
+      "surgery_before_v7.mp4"
+    ]
+  },
+  "infection": {
+    "gloss": "infection",
+    "folder": "C:\\Users\\ikrua\\Downloads\\archive (2)\\medical_signs\\infection",
+    "videos": [
+      "infection_v1.mp4",
+      "infection_v2.mp4",
+      "infection_v3.mp4",
+      "infection_v4.mp4",
+      "infection_v5.mp4",
+      "infection_v6.mp4"
+    ]
+  },
+  "diabetes": {
+    "gloss": "diabetes",
+    "folder": "C:\\Users\\ikrua\\Downloads\\archive (2)\\medical_signs\\diabetes",
+    "videos": [
+      "diabetes_v1.mp4",
+      "diabetes_v2.mp4",
+      "diabetes_v3.mp4",
+      "diabetes_v4.mp4",
+      "diabetes_v5.mp4"
+    ]
+  },
+  "pressure": {
+    "gloss": "pressure",
+    "folder": "C:\\Users\\ikrua\\Downloads\\archive (2)\\medical_signs\\pressure",
+    "videos": [
+      "pressure_v1.mp4",
+      "pressure_v2.mp4",
+      "pressure_v3.mp4",
+      "pressure_v4.mp4",
+      "pressure_v5.mp4"
+    ]
+  },
+  "heart_problem": {
+    "gloss": "heart",
+    "folder": "C:\\Users\\ikrua\\Downloads\\archive (2)\\medical_signs\\heart_problem",
+    "videos": [
+      "heart_problem_v1.mp4",
+      "heart_problem_v2.mp4",
+      "heart_problem_v3.mp4",
+      "heart_problem_v4.mp4",
+      "heart_problem_v5.mp4",
+      "heart_problem_v6.mp4",
+      "heart_problem_v7.mp4",
+      "heart_problem_v8.mp4"
+    ]
+  },
+  "fracture": {
+    "gloss": "bone",
+    "folder": "C:\\Users\\ikrua\\Downloads\\archive (2)\\medical_signs\\fracture",
+    "videos": [
+      "fracture_v1.mp4",
+      "fracture_v2.mp4",
+      "fracture_v3.mp4",
+      "fracture_v4.mp4"
+    ]
+  },
+  "anemia": {
+    "gloss": "iron",
+    "folder": "C:\\Users\\ikrua\\Downloads\\archive (2)\\medical_signs\\anemia",
+    "videos": [
+      "anemia_v1.mp4",
+      "anemia_v2.mp4",
+      "anemia_v3.mp4",
+      "anemia_v4.mp4"
+    ]
+  },
+  "injury": {
+    "gloss": "hurt",
+    "folder": "C:\\Users\\ikrua\\Downloads\\archive (2)\\medical_signs\\injury",
+    "videos": [
+      "injury_v1.mp4",
+      "injury_v2.mp4",
+      "injury_v3.mp4",
+      "injury_v4.mp4",
+      "injury_v5.mp4"
+    ]
+  },
+  "medicine": {
+    "gloss": "medicine",
+    "folder": "C:\\Users\\ikrua\\Downloads\\archive (2)\\medical_signs\\medicine",
+    "videos": [
+      "medicine_v1.mp4",
+      "medicine_v2.mp4",
+      "medicine_v3.mp4",
+      "medicine_v4.mp4",
+      "medicine_v5.mp4",
+      "medicine_v6.mp4",
+      "medicine_v7.mp4",
+      "medicine_v8.mp4"
+    ]
+  },
+  "dose": {
+    "gloss": "take",
+    "folder": "C:\\Users\\ikrua\\Downloads\\archive (2)\\medical_signs\\dose",
+    "videos": [
+      "dose_v1.mp4",
+      "dose_v2.mp4",
+      "dose_v3.mp4",
+      "dose_v4.mp4",
+      "dose_v5.mp4",
+      "dose_v6.mp4",
+      "dose_v7.mp4",
+      "dose_v8.mp4",
+      "dose_v9.mp4",
+      "dose_v10.mp4",
+      "dose_v11.mp4"
+    ]
+  },
+  "morning_dose": {
+    "gloss": "morning",
+    "folder": "C:\\Users\\ikrua\\Downloads\\archive (2)\\medical_signs\\morning_dose",
+    "videos": [
+      "morning_dose_v1.mp4",
+      "morning_dose_v2.mp4",
+      "morning_dose_v3.mp4",
+      "morning_dose_v4.mp4",
+      "morning_dose_v5.mp4",
+      "morning_dose_v6.mp4"
+    ]
+  },
+  "night_dose": {
+    "gloss": "night",
+    "folder": "C:\\Users\\ikrua\\Downloads\\archive (2)\\medical_signs\\night_dose",
+    "videos": [
+      "night_dose_v1.mp4",
+      "night_dose_v2.mp4",
+      "night_dose_v3.mp4",
+      "night_dose_v4.mp4",
+      "night_dose_v5.mp4"
+    ]
+  },
+  "finish": {
+    "gloss": "finish",
+    "folder": "C:\\Users\\ikrua\\Downloads\\archive (2)\\medical_signs\\finish",
+    "videos": [
+      "finish_v1.mp4",
+      "finish_v2.mp4",
+      "finish_v3.mp4",
+      "finish_v4.mp4",
+      "finish_v5.mp4",
+      "finish_v6.mp4",
+      "finish_v7.mp4",
+      "finish_v8.mp4",
+      "finish_v9.mp4"
+    ]
+  },
+  "test": {
+    "gloss": "test",
+    "folder": "C:\\Users\\ikrua\\Downloads\\archive (2)\\medical_signs\\test",
+    "videos": [
+      "test_v1.mp4",
+      "test_v2.mp4",
+      "test_v3.mp4",
+      "test_v4.mp4",
+      "test_v5.mp4",
+      "test_v6.mp4",
+      "test_v7.mp4",
+      "test_v8.mp4"
+    ]
+  },
+  "xray": {
+    "gloss": "scan",
+    "folder": "C:\\Users\\ikrua\\Downloads\\archive (2)\\medical_signs\\xray",
+    "videos": [
+      "xray_v1.mp4",
+      "xray_v2.mp4",
+      "xray_v3.mp4"
+    ]
+  },
+  "eat": {
+    "gloss": "eat",
+    "folder": "C:\\Users\\ikrua\\Downloads\\archive (2)\\medical_signs\\eat",
+    "videos": [
+      "eat_v1.mp4",
+      "eat_v2.mp4",
+      "eat_v3.mp4",
+      "eat_v4.mp4",
+      "eat_v5.mp4",
+      "eat_v6.mp4",
+      "eat_v7.mp4"
+    ]
+  },
+  "drink": {
+    "gloss": "drink",
+    "folder": "C:\\Users\\ikrua\\Downloads\\archive (2)\\medical_signs\\drink",
+    "videos": [
+      "drink_v1.mp4",
+      "drink_v2.mp4",
+      "drink_v3.mp4",
+      "drink_v4.mp4",
+      "drink_v5.mp4",
+      "drink_v6.mp4",
+      "drink_v7.mp4",
+      "drink_v8.mp4",
+      "drink_v9.mp4",
+      "drink_v10.mp4",
+      "drink_v11.mp4",
+      "drink_v12.mp4",
+      "drink_v13.mp4",
+      "drink_v14.mp4",
+      "drink_v15.mp4"
+    ]
+  },
+  "sleep": {
+    "gloss": "sleep",
+    "folder": "C:\\Users\\ikrua\\Downloads\\archive (2)\\medical_signs\\sleep",
+    "videos": [
+      "sleep_v1.mp4",
+      "sleep_v2.mp4",
+      "sleep_v3.mp4",
+      "sleep_v4.mp4",
+      "sleep_v5.mp4",
+      "sleep_v6.mp4"
+    ]
+  },
+  "exercise": {
+    "gloss": "exercise",
+    "folder": "C:\\Users\\ikrua\\Downloads\\archive (2)\\medical_signs\\exercise",
+    "videos": [
+      "exercise_v1.mp4",
+      "exercise_v2.mp4",
+      "exercise_v3.mp4",
+      "exercise_v4.mp4",
+      "exercise_v5.mp4"
+    ]
+  },
+  "no_alcohol": {
+    "gloss": "alcohol",
+    "folder": "C:\\Users\\ikrua\\Downloads\\archive (2)\\medical_signs\\no_alcohol",
+    "videos": [
+      "no_alcohol_v1.mp4",
+      "no_alcohol_v2.mp4",
+      "no_alcohol_v3.mp4",
+      "no_alcohol_v4.mp4"
+    ]
+  },
+  "no_smoking": {
+    "gloss": "smoking",
+    "folder": "C:\\Users\\ikrua\\Downloads\\archive (2)\\medical_signs\\no_smoking",
+    "videos": [
+      "no_smoking_v1.mp4",
+      "no_smoking_v2.mp4"
+    ]
+  },
+  "hygiene": {
+    "gloss": "clean",
+    "folder": "C:\\Users\\ikrua\\Downloads\\archive (2)\\medical_signs\\hygiene",
+    "videos": [
+      "hygiene_v1.mp4",
+      "hygiene_v2.mp4",
+      "hygiene_v3.mp4",
+      "hygiene_v4.mp4",
+      "hygiene_v5.mp4",
+      "hygiene_v6.mp4",
+      "hygiene_v7.mp4"
+    ]
+  },
+  "appointment": {
+    "gloss": "appointment",
+    "folder": "C:\\Users\\ikrua\\Downloads\\archive (2)\\medical_signs\\appointment",
+    "videos": [
+      "appointment_v1.mp4",
+      "appointment_v2.mp4",
+      "appointment_v3.mp4",
+      "appointment_v4.mp4",
+      "appointment_v5.mp4",
+      "appointment_v6.mp4",
+      "appointment_v7.mp4",
+      "appointment_v8.mp4",
+      "appointment_v9.mp4",
+      "appointment_v10.mp4"
+    ]
+  },
+  "hospital": {
+    "gloss": "hospital",
+    "folder": "C:\\Users\\ikrua\\Downloads\\archive (2)\\medical_signs\\hospital",
+    "videos": [
+      "hospital_v1.mp4",
+      "hospital_v2.mp4",
+      "hospital_v3.mp4",
+      "hospital_v4.mp4",
+      "hospital_v5.mp4",
+      "hospital_v6.mp4",
+      "hospital_v7.mp4"
+    ]
+  },
+  "emergency": {
+    "gloss": "emergency",
+    "folder": "C:\\Users\\ikrua\\Downloads\\archive (2)\\medical_signs\\emergency",
+    "videos": [
+      "emergency_v1.mp4",
+      "emergency_v2.mp4",
+      "emergency_v3.mp4",
+      "emergency_v4.mp4"
+    ]
+  },
+  "ambulance": {
+    "gloss": "car",
+    "folder": "C:\\Users\\ikrua\\Downloads\\archive (2)\\medical_signs\\ambulance",
+    "videos": [
+      "ambulance_v1.mp4",
+      "ambulance_v2.mp4",
+      "ambulance_v3.mp4",
+      "ambulance_v4.mp4",
+      "ambulance_v5.mp4",
+      "ambulance_v6.mp4",
+      "ambulance_v7.mp4"
+    ]
+  },
+  "insurance": {
+    "gloss": "insurance",
+    "folder": "C:\\Users\\ikrua\\Downloads\\archive (2)\\medical_signs\\insurance",
+    "videos": [
+      "insurance_v1.mp4",
+      "insurance_v2.mp4",
+      "insurance_v3.mp4",
+      "insurance_v4.mp4",
+      "insurance_v5.mp4",
+      "insurance_v6.mp4"
+    ]
+  },
+  "cost": {
+    "gloss": "cost",
+    "folder": "C:\\Users\\ikrua\\Downloads\\archive (2)\\medical_signs\\cost",
+    "videos": [
+      "cost_v1.mp4",
+      "cost_v2.mp4",
+      "cost_v3.mp4",
+      "cost_v4.mp4",
+      "cost_v5.mp4",
+      "cost_v6.mp4"
+    ]
+  },
+  "prescription": {
+    "gloss": "paper",
+    "folder": "C:\\Users\\ikrua\\Downloads\\archive (2)\\medical_signs\\prescription",
+    "videos": [
+      "prescription_v1.mp4",
+      "prescription_v2.mp4",
+      "prescription_v3.mp4",
+      "prescription_v4.mp4",
+      "prescription_v5.mp4",
+      "prescription_v6.mp4",
+      "prescription_v7.mp4",
+      "prescription_v8.mp4"
+    ]
+  },
+  "referral": {
+    "gloss": "send",
+    "folder": "C:\\Users\\ikrua\\Downloads\\archive (2)\\medical_signs\\referral",
+    "videos": [
+      "referral_v1.mp4",
+      "referral_v2.mp4",
+      "referral_v3.mp4",
+      "referral_v4.mp4",
+      "referral_v5.mp4"
+    ]
+  },
+  "one": {
+    "gloss": "one",
+    "folder": "C:\\Users\\ikrua\\Downloads\\archive (2)\\medical_signs\\one",
+    "videos": [
+      "one_v1.mp4",
+      "one_v2.mp4",
+      "one_v3.mp4",
+      "one_v4.mp4",
+      "one_v5.mp4",
+      "one_v6.mp4",
+      "one_v7.mp4",
+      "one_v8.mp4"
+    ]
+  },
+  "two": {
+    "gloss": "two",
+    "folder": "C:\\Users\\ikrua\\Downloads\\archive (2)\\medical_signs\\two",
+    "videos": [
+      "two_v1.mp4",
+      "two_v2.mp4",
+      "two_v3.mp4",
+      "two_v4.mp4",
+      "two_v5.mp4",
+      "two_v6.mp4"
+    ]
+  },
+  "three": {
+    "gloss": "three",
+    "folder": "C:\\Users\\ikrua\\Downloads\\archive (2)\\medical_signs\\three",
+    "videos": [
+      "three_v1.mp4",
+      "three_v2.mp4",
+      "three_v3.mp4",
+      "three_v4.mp4",
+      "three_v5.mp4",
+      "three_v6.mp4",
+      "three_v7.mp4"
+    ]
+  },
+  "four": {
+    "gloss": "four",
+    "folder": "C:\\Users\\ikrua\\Downloads\\archive (2)\\medical_signs\\four",
+    "videos": [
+      "four_v1.mp4",
+      "four_v2.mp4",
+      "four_v3.mp4",
+      "four_v4.mp4",
+      "four_v5.mp4"
+    ]
+  },
+  "five": {
+    "gloss": "five",
+    "folder": "C:\\Users\\ikrua\\Downloads\\archive (2)\\medical_signs\\five",
+    "videos": [
+      "five_v1.mp4",
+      "five_v2.mp4",
+      "five_v3.mp4",
+      "five_v4.mp4",
+      "five_v5.mp4"
+    ]
+  },
+  "six": {
+    "gloss": "six",
+    "folder": "C:\\Users\\ikrua\\Downloads\\archive (2)\\medical_signs\\six",
+    "videos": [
+      "six_v1.mp4",
+      "six_v2.mp4",
+      "six_v3.mp4",
+      "six_v4.mp4",
+      "six_v5.mp4",
+      "six_v6.mp4"
+    ]
+  },
+  "seven": {
+    "gloss": "seven",
+    "folder": "C:\\Users\\ikrua\\Downloads\\archive (2)\\medical_signs\\seven",
+    "videos": [
+      "seven_v1.mp4",
+      "seven_v2.mp4",
+      "seven_v3.mp4",
+      "seven_v4.mp4",
+      "seven_v5.mp4",
+      "seven_v6.mp4"
+    ]
+  },
+  "eight": {
+    "gloss": "eight",
+    "folder": "C:\\Users\\ikrua\\Downloads\\archive (2)\\medical_signs\\eight",
+    "videos": [
+      "eight_v1.mp4",
+      "eight_v2.mp4",
+      "eight_v3.mp4",
+      "eight_v4.mp4",
+      "eight_v5.mp4",
+      "eight_v6.mp4"
+    ]
+  },
+  "nine": {
+    "gloss": "nine",
+    "folder": "C:\\Users\\ikrua\\Downloads\\archive (2)\\medical_signs\\nine",
+    "videos": [
+      "nine_v1.mp4",
+      "nine_v2.mp4",
+      "nine_v3.mp4",
+      "nine_v4.mp4",
+      "nine_v5.mp4"
+    ]
+  },
+  "ten": {
+    "gloss": "ten",
+    "folder": "C:\\Users\\ikrua\\Downloads\\archive (2)\\medical_signs\\ten",
+    "videos": [
+      "ten_v1.mp4",
+      "ten_v2.mp4",
+      "ten_v3.mp4",
+      "ten_v4.mp4",
+      "ten_v5.mp4"
+    ]
+  }
+}
