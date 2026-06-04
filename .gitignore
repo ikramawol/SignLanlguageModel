@@ -1,0 +1,19 @@
+# Data directories - too large to push
+video_data/
+video_data___/
+keypoint_data/
+amharic_video/
+data/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+*.egg-info/
+
+# Generated training/runtime artifacts
+model.pkl
+model.p
+data.pickle
+recognized_sentence.txt
+*.log
